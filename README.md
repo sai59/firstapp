@@ -1,4 +1,4 @@
 firstapp
 ========
 
-firstapp is a test repository
+firstapp is a test application.
