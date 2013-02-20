@@ -1,4 +1,4 @@
 firstapp
 ========
 
-firstapp is a test application.
+Firstapp is a test application.
